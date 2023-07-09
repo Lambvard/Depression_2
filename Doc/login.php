@@ -32,6 +32,15 @@
   <!-- responsive style -->
   <link href="../css/responsive.css" rel="stylesheet" />
 
+
+<script type="text/javascript">
+  $(document).ready(function(){
+    $('#login').click(function(){
+      alert("Egbon Adugbo");
+    });
+  });
+</script>
+
 </head>
 
 <body class="sub_page">
@@ -92,7 +101,7 @@
               </div>
 
               <div class="mt-3 float-end" style="font-size: 13px; font-weight:bold;">
-                <button class="btn btn-danger float-end">Login</button><p>
+                <button class="btn btn-danger float-end" id="login">Login</button><p>
                 <div><span><input type="checkbox">Remember password</span> <span class="float-start"><input type="checkbox">Reset password</span>  </div>
               </div>
 
@@ -220,11 +229,15 @@ The aim of the research work is to design and implement a machine learning tools
   <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js">
   </script>
   <!-- custom js -->
+  <script type="text/javascript" src="js/mine.js"></script>
   <script type="text/javascript" src="js/custom.js"></script>
+
   <!-- Google Map -->
   <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCh39n5U-4IoWpsVGUHWdqB6puEkhRLdmI&callback=myMap">
   </script>
   <!-- End Google Map -->
+
+
 
 </body>
 

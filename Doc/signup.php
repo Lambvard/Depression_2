@@ -65,7 +65,7 @@
                 <a class="nav-link" href="about.php"> About</a>
               </li>
               <li class="nav-item active">
-                <a class="nav-link" href="signup.php">Sign Up <span class="sr-only">(current)</span> </a>
+                <a class="nav-link" href="login.php">Sign In <span class="sr-only">(current)</span> </a>
               </li>
             
               <form class="form-inline">
