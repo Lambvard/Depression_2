@@ -54,9 +54,8 @@
 
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav">
-              
                <li class="nav-item active">
-                <a class="nav-link" href="#">Dashboard <span class="sr-only">(current)</span> </a>
+                <a class="nav-link" href="Dashboard.php">Dashboard <span class="sr-only">(current)</span> </a>
               </li>
              
              <li class="nav-item">
@@ -82,7 +81,36 @@
   
 <div class="container">
     <div class="row" style="background-color: rgba(255, 255, 255, 0.79); border-radius: 10px 10px 10px 10px;">
-      
+      <div class="col-md-6 mx-auto">
+        <h1 class="mt-5">Diagnosis Form</h1>
+        <div class="">
+          <div class="mt-3">
+            <input type="text" name="" class="form-control" placeholder="Enter">
+          </div>
+
+          <div class="mt-3">
+            <input type="text" name="" class="form-control" placeholder="Enter">
+          </div>
+          <div class="mt-3">
+            <input type="text" name="" class="form-control" placeholder="Enter">
+          </div>
+          <div class="mt-3">
+            <input type="text" name="" class="form-control" placeholder="Enter">
+          </div>
+          <div class="mt-3">
+            <input type="text" name="" class="form-control" placeholder="Enter">
+          </div>
+          <div class="mt-3" style="margin-bottom: 10px;">
+            <input type="text" name="" class="form-control" placeholder="Enter">
+          </div>
+
+        <div class="mt-3" >
+            <button class="btn btn-danger float-right mb-5">Submit</button>
+          </div>
+
+
+        </div>
+      </div>
 
 
 </div>
