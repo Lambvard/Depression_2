@@ -43,7 +43,6 @@
         <nav class="navbar navbar-expand-lg custom_nav-container ">
           <a class="navbar-brand" href="index.php">
             <span>
-              Orthoc
             </span>
           </a>
 
@@ -91,14 +90,11 @@
           <div class="detail-box">
             <div class="heading_container">
               <h2>
-                About <span>Us</span>
+                About <span>Project</span>
               </h2>
             </div>
             <p>
-              There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration
-              in some form, by injected humour, or randomised words which don't look even slightly believable. If you
-              are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in
-              the middle of text. All
+              Support Vector machine is a popular supervised learning algorithm widely used in medical industry. The models are trained with set of train data to build its knowledge while the test data are applied to test and score its prediction.An adaptive support vector machine model is adaptive because the new data or facts are used to update the already trained Support Vector Machine data. This will update the trained data knowledge before using the model to predict the cause of depression symptoms. This guarantees the accuracy of the prediction as the model keeps learning through training and adapting to the changes in the trained data.
             </p>
             <a href="">
               Read More
